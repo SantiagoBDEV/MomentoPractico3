@@ -2,7 +2,7 @@
 Momento practico 3 del curso Estructura de Datos 1
 
 Profesor:
--Carlos Alberto Álvarez Henao
+Carlos Alberto Álvarez Henao
 
 Integrantes:
 - Santiago Beltrán
