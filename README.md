@@ -6,7 +6,7 @@ Integrantes:
 - Laura González
 
 Declaración uso de IA
-- Para este trabajo utilizamos Inteligencia Artificial para el generado de unit testing, así como gran parte del código. Justificamos esta decisión pues está dentro del marco de lo propuesto por el profesor en su asignación.
+- Para este trabajo utilizamos Inteligencia Artificial para el generado de unit testing, así como parte del código. Justificamos esta decisión pues está dentro del marco de lo propuesto por el profesor en su asignación.
 
 ¿Cómo se usó la IA? 
 - Se escribía una especificación de la función detallada que sirvió de prompt, posteriormente se generaron tests con esta especificación y luego se generaba código que normalmente era defectuoso, se arreglaban manualmente los errores y se corrían los tests en una serie de iteraciones hasta alcanzar el nivel de calidad deseado.
